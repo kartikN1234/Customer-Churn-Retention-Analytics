@@ -1,1 +1,6 @@
-pandas>=2.0\nnumpy>=1.24\nmatplotlib>=3.7\nseaborn>=0.12\njupyter>=1.0\n
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+openpyxl
