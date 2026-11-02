@@ -1,0 +1,27 @@
+{
+  "customers": 7043,
+  "churned_customers": 1869,
+  "retained_customers": 5174,
+  "churn_rate_pct": 26.54,
+  "monthly_charges_sum_snapshot": 456116.6,
+  "churned_monthly_charge_exposure": 139130.85,
+  "avg_tenure_churned_months": 17.98,
+  "avg_tenure_retained_months": 37.57,
+  "missing_total_charges": 11,
+  "contract_churn_rate_pct": {
+    "Month-to-month": 42.71,
+    "One year": 11.27,
+    "Two year": 2.83
+  },
+  "payment_method_churn_rate_pct": {
+    "Electronic check": 45.29,
+    "Mailed check": 19.11,
+    "Bank transfer (automatic)": 16.71,
+    "Credit card (automatic)": 15.24
+  },
+  "internet_service_churn_rate_pct": {
+    "Fiber optic": 41.89,
+    "DSL": 18.96,
+    "No": 7.4
+  }
+}
